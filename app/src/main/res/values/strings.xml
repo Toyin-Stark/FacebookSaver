@@ -1,0 +1,84 @@
+<resources>
+    <string name="app_name">Video Downloader</string>
+
+    <string name="intersistal" translatable="false">ca-app-pub-9572945218489618/5945620549</string>
+    <string name="intersistalTestID" translatable="false">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="bannerTestID" translatable="false">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="bannerID" translatable="false">ca-app-pub-4814909390362068/5272852107</string>
+    <string name="accessToke"  translatable="false">140972349799682|WU_n4-HFLCNsHT0IWWO7injf-Xk</string>
+
+
+
+
+    <string name="facebook" translatable="false">Facebook</string>
+    <string name="saver" translatable="false">Download</string>
+
+    <string name="downloads">Download</string>
+
+    <string name="permissionPositive">Ok</string>
+    <string name="permissionNegative">Cancel</string>
+    <string name="permissionMessage">This app cannot work properly without this permission</string>
+    <string name="permissionTitle">Permission needed</string>
+
+    <string name="title_1">Login to Facebook</string>
+    <string name="title_2">Simple to use</string>
+    <string name="title_3">Fast Download</string>
+
+    <string name="error">Download Error </string>
+    <string name="downloadVideo">Downloading Video</string>
+    <string name="downloadPhoto">Downloading Photo</string>
+
+    <string name="saveVideo">Download Video</string>
+    <string name="savePhoto">Download Photo</string>
+    <string name="downloadStart">The download has started</string>
+
+    <string name="dialogVideoMessage">Watch or download this video</string>
+    <string name="dialogJambVideo">What would you like to do?</string>
+
+    <string name="dialogPhotoMessage">View or download this photo</string>
+    <string name="dialogJambPhoto">What would you like to do?</string>
+
+    <string name="dialogYes">Download</string>
+    <string name="dialogNoVideo">Play</string>
+    <string name="dialogNoPhoto">View</string>
+    <string name="dialogCancel">Cancel</string>
+
+
+    <string name="complete">Download Complete</string>
+    <string name="start">Downloading</string>
+
+
+    <string name="wait">Please wait…</string>
+
+
+    <string name="step1">login to facebook</string>
+    <string name="step2">press the download button on any video</string>
+    <string name="step3">The video will be downloaded</string>
+
+
+    <string name="fab_set">Set Wallpaper</string>
+    <string name="fab_view">View Photo</string>
+    <string name="fab_view_video">Watch Video</string>
+
+    <string name="fab_reposte">Repost</string>
+    <string name="fab_share">Share</string>
+    <string name="rate">Rate</string>
+
+
+    <string name="options_image">Photo Options</string>
+    <string name="options_video">Video Options</string>
+
+    <string name="done">Wallpaper set</string>
+
+
+    <string name="scroll">Scroll up </string>
+
+
+    <string name="lite_download"> Downloads</string>
+    <string name="lite_rate">Rate</string>
+    <string name="lite_share">Share</string>
+
+
+    <string name="foto_finish">Photo download complete </string>
+    <string name="video_finish">Video download complete</string>
+</resources>

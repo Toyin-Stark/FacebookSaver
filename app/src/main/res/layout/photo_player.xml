@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.tomi.savefacebook.Player.PhotoPlayer">
+
+
+
+    <ImageView
+        android:id="@+id/groove"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:adjustViewBounds="true"
+        android:scaleType="centerCrop"
+        android:layout_centerInParent="true"
+        />
+
+
+    <RelativeLayout
+        android:id="@+id/spinner"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        >
+
+
+        <ProgressBar
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:layout_centerInParent="true"
+            />
+
+
+    </RelativeLayout>
+
+    <io.github.kobakei.materialfabspeeddial.FabSpeedDial
+        android:id="@+id/fab"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:fab_menu="@menu/wallpaper_menu"
+        app:fab_fabDrawable="@drawable/ic_add"
+        app:fab_miniFabTextBackground="@android:color/white"
+        android:layout_marginBottom="25dp"
+        android:visibility="gone"
+        />
+
+
+</RelativeLayout>
